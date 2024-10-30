@@ -2,6 +2,8 @@
 
 [View Live Site](https://kormotalikawebapp.netlify.app)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4fc7b656-89a3-4432-b5a8-dc2e58a17ef6/deploy-status)](https://app.netlify.com/sites/kormotalikawebapp/deploys)
+
 ## Overview
 
 This Task Manager application, built using React and Vite, offers a streamlined user experience for creating, managing, and organizing tasks directly in the browser. Users can add detailed tasks, prioritize them, and even tag tasks for easy categorization. With robust functionality including local storage, search, and a favorite toggle, this app provides a convenient solution for day-to-day task tracking.
